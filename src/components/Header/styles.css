@@ -1,0 +1,10 @@
+header#main-header{
+    height: 60px;
+    background: #da55ef;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    display: flex; /*tabalhar com flexbox*/
+    justify-content: center;
+    align-items: center;
+}
