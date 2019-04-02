@@ -10,7 +10,7 @@ const App = () => (
   <Header />
 
 </div>
-);
+); 
 /*
 class App extends Component {
   render() {
